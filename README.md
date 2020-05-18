@@ -1,4 +1,4 @@
-# thorpe-innovation-imersao
+# Thorpe Innovation - Imersao
 Esse software tem a função de Cadastrar pessoas, fazer login com autenticação e pode cadastra e remover suas atividades a serem realizadas.
 
 ## Backend
